@@ -20,7 +20,8 @@
 "createdAt": "2024-06-19T02:04:05.523Z",
 "updatedAt": "2024-06-19T02:04:05.523Z",
 "demo_site_url": "https://www.theonlinecoach.io/charlene_the_braider_", 
-"lead_type": "hairstylist"
+"lead_type": "hairstylist",
+"hair_type": "black_hair"
 } ],
 "totalDocs": 1, "limit": 1, "totalPages": 1, "page": 1, "pagingCounter": 1, "hasPrevPage": false, "hasNextPage": false, "prevPage": null, "nextPage": null
 }
